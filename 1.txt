@@ -1,0 +1,6 @@
+kitchen
+exit
+
+kitchen
+pizza
+exit

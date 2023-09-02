@@ -3,8 +3,6 @@ apple
 chocolate
 icecream
 cheese
-drink
-cake
 exit
 
 kitchen
